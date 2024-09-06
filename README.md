@@ -12,9 +12,9 @@ Test the live demo here: https://andrea7701.github.io/Weather-Application/
 
 # Tools Used 
 
--Reactjs (amd hooks),
--Api,
--css.
+- Reactjs (amd hooks),
+- Api,
+- css.
 
 
 # Author
