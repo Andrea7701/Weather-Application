@@ -1,6 +1,6 @@
 # Weather Application
 
-
+Weather application created in react with the hooks for the weather, city and wind change depending on city, for the Api i used the openweather Api.
 
 # Screenshoot
 
